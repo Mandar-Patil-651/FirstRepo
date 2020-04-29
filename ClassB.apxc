@@ -4,6 +4,6 @@ public class ClassB
 	{
 		System.debug('First Line');
 		System.debug('Second Line');
-		System.debug('Third Line');
+		System.debug('Fourth Line');
 	}
 }
