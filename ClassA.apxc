@@ -1,0 +1,10 @@
+public class ClassA
+{
+  public String a;
+  public String b;
+  public void firstMethod()
+  {
+    System.debug('First Line');
+    System.debug('Second Line');
+  }
+}
