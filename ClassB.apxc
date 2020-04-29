@@ -1,0 +1,8 @@
+public class ClassB
+{
+	public void secondMethod()
+	{
+		System.debug('First Line');
+		System.debug('Second Line');
+	}
+}
