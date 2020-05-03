@@ -32,7 +32,6 @@ public class ClassB
 		ABC;
 		System.debug('Commit 4');
 		System.debug('Commit 5');
-
-
+		System.debug('DevLineOnly');
 	}
 }
