@@ -21,5 +21,6 @@ public class ClassB
 		System.debug('Commit 1');
 		System.debug('Commit 2');
 		System.debug('Commit 3');
+		System.debug('DevLineOnly');
 	}
 }
