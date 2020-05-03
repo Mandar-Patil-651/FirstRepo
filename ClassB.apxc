@@ -1,5 +1,6 @@
 public class ClassB
 {
+	public String secondString = 'Two';
 	public void secondMethod()
 	{
 		System.debug('First Line');
@@ -12,5 +13,9 @@ public class ClassB
 		System.add('Fifth Line');
 		System.debug('Dev Line');
 		System.debug('TestLineOnly');
+		if(secondString.equals('Two'))
+		{
+			System.debug('SecondStringIsTwo');
+		}
 	}
 }
