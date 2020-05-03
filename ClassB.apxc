@@ -9,5 +9,6 @@ public class ClassB
 		System.debug('New Line');
 		System.debug('Fourth Linears');
 		System.add('Fifth Line');
+		System.debug('Dev Line');
 	}
 }
