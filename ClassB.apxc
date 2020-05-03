@@ -1,6 +1,7 @@
 public class ClassB
 {
 	public String secondString = 'Two';
+	public String one = 'First';
 	public void secondMethod()
 	{
 		System.debug('First Line');
@@ -22,5 +23,9 @@ public class ClassB
 		System.debug('Commit 2');
 		System.debug('Commit 3');
 		System.debug('DevLineOnly');
+		if(one.equals('First'))
+		{
+			System.debug('Correct');
+		}
 	}
 }
