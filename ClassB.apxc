@@ -8,5 +8,6 @@ public class ClassB
 		System.debug('Dev Branch Chnages');
 		System.debug('New Line');
 		System.debug('Fourth Linears');
+		System.add('Fifth Line');
 	}
 }
