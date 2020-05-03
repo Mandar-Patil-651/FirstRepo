@@ -11,5 +11,6 @@ public class ClassB
 		System.debug('Fourth Linears');
 		System.add('Fifth Line');
 		System.debug('Dev Line');
+		System.debug('TestLineOnly');
 	}
 }
