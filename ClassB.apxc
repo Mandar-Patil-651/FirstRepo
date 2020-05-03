@@ -1,4 +1,4 @@
-aapublic class ClassB
+public class ClassB
 {
 	public void secondMethod()
 	{
