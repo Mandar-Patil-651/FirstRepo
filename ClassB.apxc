@@ -1,5 +1,6 @@
 public class ClassB
 {
+	public String one = 'First';
 	public void secondMethod()
 	{
 		System.debug('First Line');
@@ -12,5 +13,10 @@ public class ClassB
 		System.add('Fifth Line');
 		System.debug('Dev Line');
 		System.debug('TestLineOnly');
+		System.debug('DevLineOnly');
+		if(one.equals('First'))
+		{
+			System.debug('Correct');
+		}
 	}
 }
