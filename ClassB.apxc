@@ -30,5 +30,7 @@ public class ClassB
 		System.debug('After remote changes in local');
 		System.debug('Remote Commit 2');
 		ABC;
+		System.debug('Commit 4');
+
 	}
 }
