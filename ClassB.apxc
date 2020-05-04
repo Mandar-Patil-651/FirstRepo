@@ -28,6 +28,6 @@ public class ClassB
 			System.debug('Correct');
 		}
 		System.debug('Remote Commit');
-
+		System.debug('After remote changes in local');
 	}
 }
