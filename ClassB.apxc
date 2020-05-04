@@ -22,5 +22,6 @@ public class ClassB
 		{
 			System.debug('SecondStringIsTwo');
 		}
+		System.debug('Resuming');
 	}
 }
