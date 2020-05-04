@@ -29,5 +29,6 @@ public class ClassB
 		}
 		System.debug('Remote Commit');
 		System.debug('After remote changes in local');
+		System.debug('Remote Commit 2');
 	}
 }
