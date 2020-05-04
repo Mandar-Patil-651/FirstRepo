@@ -24,5 +24,6 @@ public class ClassB
 		}
 		System.debug('Resuming');
 		System.debug('Commit 1');
+		System.debug('Commit 2');
 	}
 }
