@@ -6,5 +6,6 @@ public class ClassA
   {
     System.debug('First Line');
     System.debug('Second Line');
+    System.debug('Changes check revert');
   }
 }
