@@ -27,5 +27,7 @@ public class ClassB
 		{
 			System.debug('Correct');
 		}
+		System.debug('Remote Commit');
+
 	}
 }
